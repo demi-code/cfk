@@ -1,6 +1,6 @@
 <AppUpdater>
   <update>
-    <latestVersion>3.3.5.1</latestVersion>
+    <latestVersion>3.3.5.2</latestVersion>
     <latestVersionCode>4</latestVersionCode>
     <url>https://github.com/demi-code/cfk/releases</url>
   </update>
